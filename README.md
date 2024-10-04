@@ -3,14 +3,14 @@ This is a CM Library for my class where I will be adding and tracking Configurat
 This CM libraray has a file structure as shown:
 
 Product Library: (
-  Source Code
-  Setup
-  3rd Party
-  Deliveries
+  Source Code,
+  Setup,
+  3rd Party,
+  Deliveries,
   )
 Project Library: (
-  Project Documents
-  System Engineering
-  Software Engineering
-  Reports
+  Project Documents,
+  System Engineering,
+  Software Engineering,
+  Reports,
   )
